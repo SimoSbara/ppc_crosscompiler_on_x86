@@ -10,7 +10,7 @@ For now, it is a precompiled cross-compiler for PowerPC G4 7450 running on x86 L
 
 The cross-toolchain is in [powerpc-7450-linux-gnu/bin/](https://github.com/SimoSbara/ppc_crosscompiler_on_x86/tree/main/powerpc-7450-linux-gnu/bin) folder.
 
-There is an example of Client/Server (both x86 and PowerPC) in C in [examples/client_server_socket/](https://github.com/SimoSbara/ppc_crosscompiler_on_x86/tree/main/example/client_server_socket) folder.
+There is an example of Client/Server communication on socket tcp in C (both x86 and PowerPC) in [examples/client_server_socket/](https://github.com/SimoSbara/ppc_crosscompiler_on_x86/tree/main/example/client_server_socket) folder.
 
 ## Manual build toolchain
 I compiled this toolchain from this [guide](http://unisim-vp.org/site/crosstool-powerpc-7450-linux-gnu-how-to.html)
