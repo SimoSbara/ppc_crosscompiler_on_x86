@@ -13,7 +13,7 @@ The cross-toolchain is in [powerpc-7450-linux-gnu/bin/](https://github.com/SimoS
 There is an example of Client/Server communication on socket tcp in C  with MakeFile (both x86 and PowerPC) in [examples/client_server_socket/](https://github.com/SimoSbara/ppc_crosscompiler_on_x86/tree/main/example/client_server_socket) folder.
 
 ## Manual build toolchain
-I compiled this toolchain from this [guide](http://unisim-vp.org/site/crosstool-powerpc-7450-linux-gnu-how-to.html)
+I compiled this toolchain from this [guide](http://unisim-vp.org/site/crosstool-powerpc-7450-linux-gnu-how-to.html).
 There are some errors during the build process, but with some tricks you can still achieve the build like I did.
 
 Some tips are:
